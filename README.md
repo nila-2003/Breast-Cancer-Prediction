@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction
-DataSet link: [https://www.kaggle.com/code/rajarshiray25/breast-cancer-data-eda-cross-validation-rajarshi](https://www.kaggle.com/datasets/utkarshx27/breast-cancer-wisconsin-diagnostic-dataset)
+DataSet link: https://www.kaggle.com/datasets/utkarshx27/breast-cancer-wisconsin-diagnostic-dataset
 # About the model
 We are given certain clinical features and are expected to classify whether the features indicate Benign or Malignant
 Benign- No cancer (0)
